@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CatalinIonut17
+- 👀 I’m interested in Programing and Testing (Java language)
+- 🌱 I’m currently learning Automation testing with Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
